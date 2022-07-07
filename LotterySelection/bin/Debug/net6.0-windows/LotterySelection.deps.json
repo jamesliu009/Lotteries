@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LotterySelection/1.0.0": {
+        "dependencies": {
+          "BarcodeX": "1.0.2001.24230",
+          "ThoughtWorks.QRCode": "1.0.2774.19990"
+        },
+        "runtime": {
+          "LotterySelection.dll": {}
+        }
+      },
+      "BarcodeX/1.0.2001.24230": {
+        "runtime": {
+          "BarcodeX.dll": {
+            "assemblyVersion": "1.0.2001.24230",
+            "fileVersion": "1.0.2001.24230"
+          }
+        }
+      },
+      "ThoughtWorks.QRCode/1.0.2774.19990": {
+        "runtime": {
+          "ThoughtWorks.QRCode.dll": {
+            "assemblyVersion": "1.0.2774.19990",
+            "fileVersion": "1.0.2774.19990"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LotterySelection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarcodeX/1.0.2001.24230": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThoughtWorks.QRCode/1.0.2774.19990": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
